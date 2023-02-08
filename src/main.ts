@@ -1,3 +1,6 @@
+import Game from "./Game";
+
 export default (function init() {
-  console.log("initting");
+  const game = new Game();
+  game.init();
 })();
