@@ -1,0 +1,27 @@
+{
+  "name": "js-rpg",
+  "version": "1.0.0",
+  "description": "An Rpg made using Javascript and Typescript",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dbean87/JS-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dbean87/JS-RPG/issues"
+  },
+  "homepage": "https://github.com/Dbean87/JS-RPG#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^4.1.1"
+  }
+}
